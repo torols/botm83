@@ -1,0 +1,27 @@
+[
+  {
+    "groupId": "553184603496-1563136525@g.us",
+    "numbers": [
+      {
+        "jid": "553175695768@s.whatsapp.net",
+        "messages": 4,
+        "cmd_messages": 2
+      },
+      {
+        "jid": "553194659469@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 1
+      }
+    ]
+  },
+  {
+    "groupId": "553175695768-1634766372@g.us",
+    "numbers": [
+      {
+        "jid": "553175695768@s.whatsapp.net",
+        "messages": 7,
+        "cmd_messages": 6
+      }
+    ]
+  }
+]
